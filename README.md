@@ -67,13 +67,13 @@
   <br><h3>Web Technologies</h3><br>
     <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTh5NzVhMzZnZWh5OTF1ODZoeGZ1cm9hcTV2bXBnaGhod3NuYmg0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif" alt="html5" width="70" height="70"/>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTh5NzVhMzZnZWh5OTF1ODZoeGZ1cm9hcTV2bXBnaGhod3NuYmg0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif" alt="html5" width="75" height="75"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/>
+    <img src="https://media1.tenor.com/m/80QPiB4JMLMAAAAC/logo.gif" alt="css3" width="60" height="60"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javascript" width="60" height="60"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javascript" width="70" height="70"/>
   </a>
     </p>
 
